@@ -1,0 +1,8 @@
+user.email=marcoscedeno242466@gmail.com
+user.name=Marco
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/Markitoss4/PRACT.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
